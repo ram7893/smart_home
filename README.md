@@ -1,11 +1,7 @@
-# smart_home
-         Smart Home clearly stands out, ranking as highest Internet of Things application on all measured channels. More than 60,000 people 
-currently search for the term “Smart Home” each month. This is not a surprise. The IoT Analytics company database for Smart Home includes 
-256 companies and startups. More companies are active in smart home than any other application in the field of IoT. The total amount of 
-funding for Smart Home startups currently exceeds $2.5bn. This list includes prominent startup names such as Nest or Alert Me as well as 
-a number of multinational corporations like Philips, Haier, or Belkin.
+# Smart Home
+  Smart Home clearly stands out, ranking as highest Internet of Things application on all measured channels. More than 60,000 people currently search for the term “Smart Home” each month. This is not a surprise. The IoT Analytics company database for Smart Home includes 256 companies and startups. More companies are active in smart home than any other application in the field of IoT. The total amount of funding for Smart Home startups currently exceeds $2.5bn. This list includes prominent startup names such as Nest or Alert Me as well as a number of multinational corporations like Philips, Haier, or Belkin.
 
-         In this project, we will design our own automation control of home appliances using NodeMCU and relays. The main components required
+ In this project, we will design our own automation control of home appliances using NodeMCU and relays. The main components required
 are:
 1. NodeMCU : 
 It is an open source IoT platform. It is permanent software programmed into a read only memory which runs on ESP8266 Wi-Fi SoC from 
@@ -56,7 +52,6 @@ Blynk App: In order to communicate with wifi module we need an smart phone insta
 Build a basic GUI for NodeMCU using the app.
 
 Integrating with IFTTT : Use the IFTTT app to integrate the voice control (Google Assistant) to the project.
-
 
 Future Work : We will soon see an updated version of the project.
 
